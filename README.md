@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ACEA News App
 
 > News Web App for independent journalist
